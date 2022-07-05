@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DesignInspired</string>
+    <string name="caramel_nfrappuccino">Caramel \nFrappuccino</string>
+    <string name="size_options">Size Options</string>
+    <string name="details">Details</string>
+    <string name="best_selse">Best Selse</string>
+    <string name="tall">tall</string>
+    <string name="grande">Grande</string>
+    <string name="venti">Venti</string>
+    <string name="custom">Custom</string>
+    <string name="tank">tank</string>
+    <string name="add_to_order">Add to Order</string>
 </resources>

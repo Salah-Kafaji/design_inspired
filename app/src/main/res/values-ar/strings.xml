@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تاسك التصميم</string>
+    <string name="caramel_nfrappuccino">كارميل \nفرابتشينو</string>
+    <string name="size_options">خيارات الحجم</string>
+    <string name="details">التفاصيل</string>
+    <string name="best_selse">الاكثر مبيعا</string>
+    <string name="tall">طويل</string>
+    <string name="grande">غراندي</string>
+    <string name="venti">فينتي</string>
+    <string name="custom">مخصص</string>
+    <string name="tank">تانكي</string>
+    <string name="add_to_order">اضافة الطلب</string>
+</resources>
