@@ -26,10 +26,8 @@
             android:id="@+id/arrow_left"
             android:layout_width="24dp"
             android:layout_height="24dp"
-            app:layout_constraintBottom_toBottomOf="@+id/constraintLayout"
-            app:layout_constraintEnd_toEndOf="@+id/constraintLayout"
-            app:layout_constraintStart_toStartOf="@+id/constraintLayout"
-            app:layout_constraintTop_toTopOf="@+id/constraintLayout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/main_title"
             app:srcCompat="@drawable/ic_arrow_left_svgrepo_com" />
 
         <TextView
@@ -49,12 +47,8 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:tint="#d4c7a3"
-            app:layout_constraintBottom_toBottomOf="@+id/constraintLayout"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="1.0"
-            app:layout_constraintStart_toStartOf="@+id/constraintLayout"
             app:layout_constraintTop_toTopOf="@+id/constraintLayout"
-            app:layout_constraintVertical_bias="0.0"
             app:srcCompat="@drawable/ic_shopping_basket_svgrepo_com" />
 
         <ImageView
